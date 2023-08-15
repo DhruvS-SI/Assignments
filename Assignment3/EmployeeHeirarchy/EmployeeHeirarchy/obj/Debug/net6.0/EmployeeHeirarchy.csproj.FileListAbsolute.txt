@@ -1,0 +1,15 @@
+C:\Users\dhruv.solanki\source\repos\EmployeeHeirarchy\EmployeeHeirarchy\bin\Debug\net6.0\EmployeeHeirarchy.exe
+C:\Users\dhruv.solanki\source\repos\EmployeeHeirarchy\EmployeeHeirarchy\bin\Debug\net6.0\EmployeeHeirarchy.deps.json
+C:\Users\dhruv.solanki\source\repos\EmployeeHeirarchy\EmployeeHeirarchy\bin\Debug\net6.0\EmployeeHeirarchy.runtimeconfig.json
+C:\Users\dhruv.solanki\source\repos\EmployeeHeirarchy\EmployeeHeirarchy\bin\Debug\net6.0\EmployeeHeirarchy.dll
+C:\Users\dhruv.solanki\source\repos\EmployeeHeirarchy\EmployeeHeirarchy\bin\Debug\net6.0\EmployeeHeirarchy.pdb
+C:\Users\dhruv.solanki\source\repos\EmployeeHeirarchy\EmployeeHeirarchy\obj\Debug\net6.0\EmployeeHeirarchy.csproj.AssemblyReference.cache
+C:\Users\dhruv.solanki\source\repos\EmployeeHeirarchy\EmployeeHeirarchy\obj\Debug\net6.0\EmployeeHeirarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruv.solanki\source\repos\EmployeeHeirarchy\EmployeeHeirarchy\obj\Debug\net6.0\EmployeeHeirarchy.AssemblyInfoInputs.cache
+C:\Users\dhruv.solanki\source\repos\EmployeeHeirarchy\EmployeeHeirarchy\obj\Debug\net6.0\EmployeeHeirarchy.AssemblyInfo.cs
+C:\Users\dhruv.solanki\source\repos\EmployeeHeirarchy\EmployeeHeirarchy\obj\Debug\net6.0\EmployeeHeirarchy.csproj.CoreCompileInputs.cache
+C:\Users\dhruv.solanki\source\repos\EmployeeHeirarchy\EmployeeHeirarchy\obj\Debug\net6.0\EmployeeHeirarchy.dll
+C:\Users\dhruv.solanki\source\repos\EmployeeHeirarchy\EmployeeHeirarchy\obj\Debug\net6.0\refint\EmployeeHeirarchy.dll
+C:\Users\dhruv.solanki\source\repos\EmployeeHeirarchy\EmployeeHeirarchy\obj\Debug\net6.0\EmployeeHeirarchy.pdb
+C:\Users\dhruv.solanki\source\repos\EmployeeHeirarchy\EmployeeHeirarchy\obj\Debug\net6.0\EmployeeHeirarchy.genruntimeconfig.cache
+C:\Users\dhruv.solanki\source\repos\EmployeeHeirarchy\EmployeeHeirarchy\obj\Debug\net6.0\ref\EmployeeHeirarchy.dll

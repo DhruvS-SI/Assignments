@@ -1,0 +1,15 @@
+C:\Users\dhruv.solanki\source\repos\OnlineStoreInventory\OnlineStoreInventory\bin\Debug\net6.0\OnlineStoreInventory.exe
+C:\Users\dhruv.solanki\source\repos\OnlineStoreInventory\OnlineStoreInventory\bin\Debug\net6.0\OnlineStoreInventory.deps.json
+C:\Users\dhruv.solanki\source\repos\OnlineStoreInventory\OnlineStoreInventory\bin\Debug\net6.0\OnlineStoreInventory.runtimeconfig.json
+C:\Users\dhruv.solanki\source\repos\OnlineStoreInventory\OnlineStoreInventory\bin\Debug\net6.0\OnlineStoreInventory.dll
+C:\Users\dhruv.solanki\source\repos\OnlineStoreInventory\OnlineStoreInventory\bin\Debug\net6.0\OnlineStoreInventory.pdb
+C:\Users\dhruv.solanki\source\repos\OnlineStoreInventory\OnlineStoreInventory\obj\Debug\net6.0\OnlineStoreInventory.csproj.AssemblyReference.cache
+C:\Users\dhruv.solanki\source\repos\OnlineStoreInventory\OnlineStoreInventory\obj\Debug\net6.0\OnlineStoreInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruv.solanki\source\repos\OnlineStoreInventory\OnlineStoreInventory\obj\Debug\net6.0\OnlineStoreInventory.AssemblyInfoInputs.cache
+C:\Users\dhruv.solanki\source\repos\OnlineStoreInventory\OnlineStoreInventory\obj\Debug\net6.0\OnlineStoreInventory.AssemblyInfo.cs
+C:\Users\dhruv.solanki\source\repos\OnlineStoreInventory\OnlineStoreInventory\obj\Debug\net6.0\OnlineStoreInventory.csproj.CoreCompileInputs.cache
+C:\Users\dhruv.solanki\source\repos\OnlineStoreInventory\OnlineStoreInventory\obj\Debug\net6.0\OnlineStoreInventory.dll
+C:\Users\dhruv.solanki\source\repos\OnlineStoreInventory\OnlineStoreInventory\obj\Debug\net6.0\refint\OnlineStoreInventory.dll
+C:\Users\dhruv.solanki\source\repos\OnlineStoreInventory\OnlineStoreInventory\obj\Debug\net6.0\OnlineStoreInventory.pdb
+C:\Users\dhruv.solanki\source\repos\OnlineStoreInventory\OnlineStoreInventory\obj\Debug\net6.0\OnlineStoreInventory.genruntimeconfig.cache
+C:\Users\dhruv.solanki\source\repos\OnlineStoreInventory\OnlineStoreInventory\obj\Debug\net6.0\ref\OnlineStoreInventory.dll

@@ -1,0 +1,15 @@
+C:\Users\dhruv.solanki\source\repos\Day2Assignment\Day2Assignment\bin\Debug\net6.0\Day2Assignment.exe
+C:\Users\dhruv.solanki\source\repos\Day2Assignment\Day2Assignment\bin\Debug\net6.0\Day2Assignment.deps.json
+C:\Users\dhruv.solanki\source\repos\Day2Assignment\Day2Assignment\bin\Debug\net6.0\Day2Assignment.runtimeconfig.json
+C:\Users\dhruv.solanki\source\repos\Day2Assignment\Day2Assignment\bin\Debug\net6.0\Day2Assignment.dll
+C:\Users\dhruv.solanki\source\repos\Day2Assignment\Day2Assignment\bin\Debug\net6.0\Day2Assignment.pdb
+C:\Users\dhruv.solanki\source\repos\Day2Assignment\Day2Assignment\obj\Debug\net6.0\Day2Assignment.csproj.AssemblyReference.cache
+C:\Users\dhruv.solanki\source\repos\Day2Assignment\Day2Assignment\obj\Debug\net6.0\Day2Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruv.solanki\source\repos\Day2Assignment\Day2Assignment\obj\Debug\net6.0\Day2Assignment.AssemblyInfoInputs.cache
+C:\Users\dhruv.solanki\source\repos\Day2Assignment\Day2Assignment\obj\Debug\net6.0\Day2Assignment.AssemblyInfo.cs
+C:\Users\dhruv.solanki\source\repos\Day2Assignment\Day2Assignment\obj\Debug\net6.0\Day2Assignment.csproj.CoreCompileInputs.cache
+C:\Users\dhruv.solanki\source\repos\Day2Assignment\Day2Assignment\obj\Debug\net6.0\Day2Assignment.dll
+C:\Users\dhruv.solanki\source\repos\Day2Assignment\Day2Assignment\obj\Debug\net6.0\refint\Day2Assignment.dll
+C:\Users\dhruv.solanki\source\repos\Day2Assignment\Day2Assignment\obj\Debug\net6.0\Day2Assignment.pdb
+C:\Users\dhruv.solanki\source\repos\Day2Assignment\Day2Assignment\obj\Debug\net6.0\Day2Assignment.genruntimeconfig.cache
+C:\Users\dhruv.solanki\source\repos\Day2Assignment\Day2Assignment\obj\Debug\net6.0\ref\Day2Assignment.dll

@@ -1,0 +1,15 @@
+C:\Users\dhruv.solanki\source\repos\StudentsGrades\StudentsGrades\bin\Debug\net6.0\StudentsGrades.exe
+C:\Users\dhruv.solanki\source\repos\StudentsGrades\StudentsGrades\bin\Debug\net6.0\StudentsGrades.deps.json
+C:\Users\dhruv.solanki\source\repos\StudentsGrades\StudentsGrades\bin\Debug\net6.0\StudentsGrades.runtimeconfig.json
+C:\Users\dhruv.solanki\source\repos\StudentsGrades\StudentsGrades\bin\Debug\net6.0\StudentsGrades.dll
+C:\Users\dhruv.solanki\source\repos\StudentsGrades\StudentsGrades\bin\Debug\net6.0\StudentsGrades.pdb
+C:\Users\dhruv.solanki\source\repos\StudentsGrades\StudentsGrades\obj\Debug\net6.0\StudentsGrades.csproj.AssemblyReference.cache
+C:\Users\dhruv.solanki\source\repos\StudentsGrades\StudentsGrades\obj\Debug\net6.0\StudentsGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruv.solanki\source\repos\StudentsGrades\StudentsGrades\obj\Debug\net6.0\StudentsGrades.AssemblyInfoInputs.cache
+C:\Users\dhruv.solanki\source\repos\StudentsGrades\StudentsGrades\obj\Debug\net6.0\StudentsGrades.AssemblyInfo.cs
+C:\Users\dhruv.solanki\source\repos\StudentsGrades\StudentsGrades\obj\Debug\net6.0\StudentsGrades.csproj.CoreCompileInputs.cache
+C:\Users\dhruv.solanki\source\repos\StudentsGrades\StudentsGrades\obj\Debug\net6.0\StudentsGrades.dll
+C:\Users\dhruv.solanki\source\repos\StudentsGrades\StudentsGrades\obj\Debug\net6.0\refint\StudentsGrades.dll
+C:\Users\dhruv.solanki\source\repos\StudentsGrades\StudentsGrades\obj\Debug\net6.0\StudentsGrades.pdb
+C:\Users\dhruv.solanki\source\repos\StudentsGrades\StudentsGrades\obj\Debug\net6.0\StudentsGrades.genruntimeconfig.cache
+C:\Users\dhruv.solanki\source\repos\StudentsGrades\StudentsGrades\obj\Debug\net6.0\ref\StudentsGrades.dll
